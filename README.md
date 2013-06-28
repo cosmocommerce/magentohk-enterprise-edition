@@ -5,6 +5,7 @@ Magneto Hot Kiss Enterprise Edition including Cache,Rewards and many features et
 
 
 Features including:
+
 1 Rewards
 2 Customer Enhanced
 3 Catalog Events
